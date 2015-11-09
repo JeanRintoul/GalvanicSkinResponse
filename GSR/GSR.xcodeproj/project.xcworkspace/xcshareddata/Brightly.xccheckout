@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>73F8F80F-5040-4BEB-B097-B343B089F693</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CF7940F3E3403E8EB2F843EA73073DA30543C1C6</key>
+		<string>https://bitbucket.org/LirScientific/brightly.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Brightly/Brightly.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CF7940F3E3403E8EB2F843EA73073DA30543C1C6</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/LirScientific/brightly.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CF7940F3E3403E8EB2F843EA73073DA30543C1C6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CF7940F3E3403E8EB2F843EA73073DA30543C1C6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>brightly</string>
+		</dict>
+	</array>
+</dict>
+</plist>
